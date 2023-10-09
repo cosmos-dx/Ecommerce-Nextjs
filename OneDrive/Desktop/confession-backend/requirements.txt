@@ -1,0 +1,7 @@
+Flask
+Gunicorn
+pillow
+flask-cors
+python-dotenv
+uuid
+instabot
