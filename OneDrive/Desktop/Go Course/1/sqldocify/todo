@@ -1,0 +1,8 @@
+1. Create Table and store it in a datastructure
+2. If table not stored thow an error to create one.
+3. tableName changed so check everytime it is stored in datastructure or not
+
+PRedator 2018
+
+create a file which stores tables list
+metadata should store schema also 
